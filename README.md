@@ -1,6 +1,3 @@
-### Hi there 👋
-
------
 
 <p align = "center">
 <img src="https://www.wallpaperkiss.com/wimg/b/106-1064958_big.jpg">
