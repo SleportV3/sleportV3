@@ -3,7 +3,7 @@
 -----
 
 <p align = "center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABjM5r_PfRE8liOWtZQOqJto-MBSua8m3Snr1E6M55zlwJWvrSc_tUhLIXbq8UCGFmvg&usqp=CAU">
+<img src="https://www.wallpaperkiss.com/wimg/b/106-1064958_big.jpg">
 </p>
 
 -----
