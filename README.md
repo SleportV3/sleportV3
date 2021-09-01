@@ -15,7 +15,6 @@
   <br>
   <br>
   <br>
-  <br>
   <a href = "https://discord.gg/UhTN3UT9H7">💎 Mon serveur discord Rod-Teams 💎</a>
   
 -----
