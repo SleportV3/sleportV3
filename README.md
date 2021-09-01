@@ -20,7 +20,7 @@
 -----
 ### <p align = "center">📎 Futurs Projet 📎</p> 
 <br>
-<p align = "center"><b>Nexus</b></p>
+<p align = "center"><b> Nexus </b></p>
 
 -----
 ### <p align = "center">📊 Mes stats 📊</p>
