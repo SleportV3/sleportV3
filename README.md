@@ -3,7 +3,7 @@
 -----
 
 <p align = "center">
-<img src="https://preview.redd.it/lfndtoirttvx.jpg?auto=webp&s=62fd5e471e310793ae18fc7573b649c134b23e92">
+<img src="https://www.kolpaper.com/wp-content/uploads/2021/05/4K-Firewatch-Wallpaper.jpg">
 </p>
 
 -----
