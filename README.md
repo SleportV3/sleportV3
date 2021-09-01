@@ -18,7 +18,7 @@
   <a href = "https://discord.gg/UhTN3UT9H7">💎 Mon serveur discord Rod-Teams 💎</a>
   
 -----
- ### <p align = "center"<📎 Futurs Projet 📎</p> 
+ ### <p align = "center"📎 Futurs Projet 📎</p> 
 <br>
 <p align = "center"><b< Nexus <b/></p>
 
