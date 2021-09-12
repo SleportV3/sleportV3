@@ -8,7 +8,7 @@
 ### <p align = "center">📍 SleportV3 📍</p>
 <br>
 <p align = "center">
-  Je suis un développeur débutant en python et c++
+  Je suis un développeur débutant en python, typescript et c++
   <br>
   <br>
   <br>
